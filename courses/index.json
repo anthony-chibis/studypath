@@ -1,0 +1,576 @@
+{
+ "courses": [
+  {
+   "id": "english-a1",
+   "file": "english-a1.json",
+   "title": {
+    "en": "English step by step 1 (A1)",
+    "ru": "Английский шаг за шагом 1 (A1)"
+   },
+   "short": {
+    "en": "English 1",
+    "ru": "Английский 1"
+   },
+   "subtitle": {
+    "en": "English from the very beginning: dialogues, texts, listening, grammar and prepositions in every unit",
+    "ru": "Английский с самого начала: диалоги, тексты, аудирование, грамматика и предлоги в каждой главе"
+   },
+   "icon": "🇬🇧",
+   "lang": "en-GB",
+   "series": {
+    "id": "english",
+    "title": {
+     "en": "English step by step",
+     "ru": "Английский шаг за шагом"
+    },
+    "books": 2
+   },
+   "order": 1,
+   "level": "A1",
+   "next": "english-a2",
+   "units": 10,
+   "lessons": 51,
+   "size": 828537,
+   "rev": "5582be1582cf",
+   "core": "english-a1.core.json",
+   "coreSize": 389551,
+   "langs": {
+    "en": {
+     "size": 176384,
+     "full": true
+    },
+    "ru": {
+     "size": 261494,
+     "full": true
+    }
+   }
+  },
+  {
+   "id": "english-a2",
+   "file": "english-a2.json",
+   "title": {
+    "en": "English step by step 2 (A2)",
+    "ru": "Английский шаг за шагом 2 (A2)"
+   },
+   "short": {
+    "en": "English 2",
+    "ru": "Английский 2"
+   },
+   "subtitle": {
+    "en": "English for everyday life: tenses, questions, stories and plans, with dialogues, texts and listening in every unit",
+    "ru": "Английский для повседневной жизни: времена, вопросы, рассказы и планы; диалоги, тексты и аудирование в каждой главе"
+   },
+   "icon": "🇬🇧",
+   "lang": "en-GB",
+   "series": {
+    "id": "english",
+    "title": {
+     "en": "English step by step",
+     "ru": "Английский шаг за шагом"
+    },
+    "books": 2
+   },
+   "order": 2,
+   "level": "A2",
+   "prev": "english-a1",
+   "units": 10,
+   "lessons": 51,
+   "size": 991185,
+   "rev": "356b680a6692",
+   "core": "english-a2.core.json",
+   "coreSize": 446896,
+   "langs": {
+    "en": {
+     "size": 209247,
+     "full": true
+    },
+    "ru": {
+     "size": 333934,
+     "full": true
+    }
+   }
+  },
+  {
+   "id": "snu-korean-1a",
+   "file": "snu-korean-1a.json",
+   "title": {
+    "en": "SNU Korean 1A",
+    "ru": "SNU Korean 1A"
+   },
+   "short": {
+    "en": "Korean 1A",
+    "ru": "Корейский 1A"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 1A: Hangeul + units 1–8",
+    "ru": "Дополнение к учебнику 서울대 한국어 1A: хангыль + главы 1–8"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 1,
+   "level": "A1",
+   "next": "snu-korean-1b",
+   "units": 9,
+   "lessons": 54,
+   "size": 450182,
+   "rev": "e67c0a1c66e2",
+   "core": "snu-korean-1a.core.json",
+   "coreSize": 221024,
+   "langs": {
+    "en": {
+     "size": 84366,
+     "full": true
+    },
+    "ru": {
+     "size": 143684,
+     "full": true
+    }
+   }
+  },
+  {
+   "id": "snu-korean-1b",
+   "file": "snu-korean-1b.json",
+   "title": {
+    "en": "SNU Korean 1B",
+    "ru": "SNU Korean 1B"
+   },
+   "short": {
+    "en": "Korean 1B",
+    "ru": "Корейский 1B"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 1B: units 9–16",
+    "ru": "Дополнение к учебнику 서울대 한국어 1B: главы 9–16"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 2,
+   "level": "A1",
+   "next": "snu-korean-2a",
+   "prev": "snu-korean-1a",
+   "units": 8,
+   "lessons": 48,
+   "size": 428839,
+   "rev": "f14c18d2e34c",
+   "core": "snu-korean-1b.core.json",
+   "coreSize": 209650,
+   "langs": {
+    "en": {
+     "size": 82252,
+     "full": true
+    },
+    "ru": {
+     "size": 135829,
+     "full": true
+    }
+   }
+  },
+  {
+   "id": "snu-korean-2a",
+   "file": "snu-korean-2a.json",
+   "title": {
+    "en": "SNU Korean 2A",
+    "ru": "SNU Korean 2A"
+   },
+   "short": {
+    "en": "Korean 2A",
+    "ru": "Корейский 2A"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 2A: units 1–9",
+    "ru": "Дополнение к учебнику 서울대 한국어 2A: главы 1–9"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 3,
+   "level": "A2",
+   "next": "snu-korean-2b",
+   "prev": "snu-korean-1b",
+   "units": 9,
+   "lessons": 54,
+   "size": 502351,
+   "rev": "c147fd6f62eb",
+   "core": "snu-korean-2a.core.json",
+   "coreSize": 242298,
+   "langs": {
+    "en": {
+     "size": 98460,
+     "full": true
+    },
+    "ru": {
+     "size": 160485,
+     "full": true
+    }
+   }
+  },
+  {
+   "id": "snu-korean-2b",
+   "file": "snu-korean-2b.json",
+   "title": {
+    "en": "SNU Korean 2B",
+    "ru": "SNU Korean 2B"
+   },
+   "short": {
+    "en": "Korean 2B",
+    "ru": "Корейский 2B"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 2B (Student's Book + Workbook): units 10–18",
+    "ru": "Дополнение к учебнику 서울대 한국어 2B (учебник + рабочая тетрадь): главы 10–18"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 4,
+   "level": "A2",
+   "next": "snu-korean-3a",
+   "prev": "snu-korean-2a",
+   "units": 9,
+   "lessons": 54,
+   "size": 612443,
+   "rev": "5f7d2c21d11c",
+   "core": "snu-korean-2b.core.json",
+   "coreSize": 282691,
+   "langs": {
+    "en": {
+     "size": 125431,
+     "full": true
+    },
+    "ru": {
+     "size": 203213,
+     "full": true
+    }
+   }
+  },
+  {
+   "id": "snu-korean-3a",
+   "file": "snu-korean-3a.json",
+   "title": {
+    "en": "SNU Korean 3A",
+    "ru": "SNU Korean 3A"
+   },
+   "short": {
+    "en": "Korean 3A",
+    "ru": "Корейский 3A"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 3A (Student's Book + Workbook): units 1–9, with explanations in Korean too",
+    "ru": "Дополнение к учебнику 서울대 한국어 3A (учебник + рабочая тетрадь): главы 1–9, объяснения есть и на корейском"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 5,
+   "level": "B1",
+   "next": "snu-korean-3b",
+   "prev": "snu-korean-2b",
+   "units": 9,
+   "lessons": 55,
+   "size": 1193940,
+   "rev": "75a213eecb49",
+   "core": "snu-korean-3a.core.json",
+   "coreSize": 536180,
+   "langs": {
+    "en": {
+     "size": 234455,
+     "full": true
+    },
+    "ru": {
+     "size": 377578,
+     "full": true
+    },
+    "ko": {
+     "size": 65730,
+     "full": false
+    }
+   }
+  },
+  {
+   "id": "snu-korean-3b",
+   "file": "snu-korean-3b.json",
+   "title": {
+    "en": "SNU Korean 3B",
+    "ru": "SNU Korean 3B"
+   },
+   "short": {
+    "en": "Korean 3B",
+    "ru": "Корейский 3B"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 3B (Student's Book + Workbook): units 10–18, with explanations in Korean too",
+    "ru": "Дополнение к учебнику 서울대 한국어 3B (учебник + рабочая тетрадь): главы 10–18, объяснения есть и на корейском"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 6,
+   "level": "B1",
+   "next": "snu-korean-4a",
+   "prev": "snu-korean-3a",
+   "units": 9,
+   "lessons": 55,
+   "size": 1248088,
+   "rev": "c80c01beef80",
+   "core": "snu-korean-3b.core.json",
+   "coreSize": 565682,
+   "langs": {
+    "en": {
+     "size": 249289,
+     "full": true
+    },
+    "ru": {
+     "size": 388550,
+     "full": true
+    },
+    "ko": {
+     "size": 63095,
+     "full": false
+    }
+   }
+  },
+  {
+   "id": "snu-korean-4a",
+   "file": "snu-korean-4a.json",
+   "title": {
+    "en": "SNU Korean 4A",
+    "ru": "SNU Korean 4A"
+   },
+   "short": {
+    "en": "Korean 4A",
+    "ru": "Корейский 4A"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 4A (Student's Book + Workbook): units 1–9, with explanations in Korean too",
+    "ru": "Дополнение к учебнику 서울대 한국어 4A (учебник + рабочая тетрадь): главы 1–9, объяснения есть и на корейском"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 7,
+   "level": "B2",
+   "next": "snu-korean-4b",
+   "prev": "snu-korean-3b",
+   "units": 9,
+   "lessons": 55,
+   "size": 1537034,
+   "rev": "2dd0af98c096",
+   "core": "snu-korean-4a.core.json",
+   "coreSize": 688683,
+   "langs": {
+    "en": {
+     "size": 308463,
+     "full": true
+    },
+    "ru": {
+     "size": 488691,
+     "full": true
+    },
+    "ko": {
+     "size": 72850,
+     "full": false
+    }
+   }
+  },
+  {
+   "id": "snu-korean-4b",
+   "file": "snu-korean-4b.json",
+   "title": {
+    "en": "SNU Korean 4B",
+    "ru": "SNU Korean 4B"
+   },
+   "short": {
+    "en": "Korean 4B",
+    "ru": "Корейский 4B"
+   },
+   "subtitle": {
+    "en": "Companion to 서울대 한국어 4B (Student's Book + Workbook): units 10–18, with explanations in Korean too",
+    "ru": "Дополнение к учебнику 서울대 한국어 4B (учебник + рабочая тетрадь): главы 10–18, объяснения есть и на корейском"
+   },
+   "icon": "🇰🇷",
+   "lang": "ko-KR",
+   "series": {
+    "id": "snu-korean",
+    "title": {
+     "en": "SNU Korean (서울대 한국어)",
+     "ru": "SNU Korean (서울대 한국어)"
+    },
+    "books": 8
+   },
+   "order": 8,
+   "level": "B2",
+   "prev": "snu-korean-4a",
+   "units": 9,
+   "lessons": 55,
+   "size": 1624865,
+   "rev": "a1d6d5463829",
+   "core": "snu-korean-4b.core.json",
+   "coreSize": 723570,
+   "langs": {
+    "en": {
+     "size": 329919,
+     "full": true
+    },
+    "ru": {
+     "size": 522066,
+     "full": true
+    },
+    "ko": {
+     "size": 71638,
+     "full": false
+    }
+   }
+  },
+  {
+   "id": "dutch-a1",
+   "file": "dutch-a1.json",
+   "title": {
+    "en": "Dutch from scratch 1 (A1)",
+    "ru": "Нидерландский с нуля 1 (A1)"
+   },
+   "short": {
+    "en": "Dutch 1",
+    "ru": "Нидерландский 1"
+   },
+   "subtitle": {
+    "en": "Hybrid course after Teach Yourself Dutch and Colloquial Dutch: units 0–8",
+    "ru": "Гибридный курс по Teach Yourself Dutch и Colloquial Dutch: главы 0–8"
+   },
+   "icon": "🇳🇱",
+   "lang": "nl-NL",
+   "series": {
+    "id": "dutch",
+    "title": {
+     "en": "Dutch from scratch",
+     "ru": "Нидерландский с нуля"
+    },
+    "books": 2
+   },
+   "order": 1,
+   "level": "A1",
+   "next": "dutch-a2",
+   "units": 9,
+   "lessons": 46,
+   "size": 419758,
+   "rev": "2aed5f25955b",
+   "core": "dutch-a1.core.json",
+   "coreSize": 202454,
+   "langs": {
+    "en": {
+     "size": 83683,
+     "full": true
+    },
+    "ru": {
+     "size": 132513,
+     "full": true
+    }
+   }
+  },
+  {
+   "id": "dutch-a2",
+   "file": "dutch-a2.json",
+   "title": {
+    "en": "Dutch from scratch 2 (A2)",
+    "ru": "Нидерландский с нуля 2 (A2)"
+   },
+   "short": {
+    "en": "Dutch 2",
+    "ru": "Нидерландский 2"
+   },
+   "subtitle": {
+    "en": "Hybrid course after Teach Yourself Dutch and Colloquial Dutch: units 9–17",
+    "ru": "Гибридный курс по Teach Yourself Dutch и Colloquial Dutch: главы 9–17"
+   },
+   "icon": "🇳🇱",
+   "lang": "nl-NL",
+   "series": {
+    "id": "dutch",
+    "title": {
+     "en": "Dutch from scratch",
+     "ru": "Нидерландский с нуля"
+    },
+    "books": 2
+   },
+   "order": 2,
+   "level": "A2",
+   "prev": "dutch-a1",
+   "units": 9,
+   "lessons": 47,
+   "size": 626131,
+   "rev": "3bcf9ec4d801",
+   "core": "dutch-a2.core.json",
+   "coreSize": 299994,
+   "langs": {
+    "en": {
+     "size": 122102,
+     "full": true
+    },
+    "ru": {
+     "size": 202927,
+     "full": true
+    }
+   }
+  }
+ ],
+ "placement": [
+  {
+   "lang": "ko-KR",
+   "file": "placement-ko.json"
+  },
+  {
+   "lang": "nl-NL",
+   "file": "placement-nl.json"
+  }
+ ]
+}

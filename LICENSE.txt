@@ -1,0 +1,25 @@
+StudyPath — non-commercial project
+Copyright (c) 2026 anthony-chibis (https://github.com/anthony-chibis)
+
+StudyPath is free and non-commercial. It was never meant to make money,
+and nobody may use it to make money.
+
+1. Source code (src/, scripts/, content/*.py, tools/, android/, www/ and the
+   other program files) is licensed under the PolyForm Noncommercial
+   License 1.0.0 — see LICENSE-CODE.md.
+   Required Notice: Copyright (c) 2026 anthony-chibis (https://github.com/anthony-chibis)
+
+2. Course content (courses/*.json, packs/*.json and the lesson texts,
+   exercises and explanations in content/) is licensed under the Creative
+   Commons Attribution-NonCommercial 4.0 International License
+   (CC BY-NC 4.0) — see LICENSE-CONTENT.txt or
+   https://creativecommons.org/licenses/by-nc/4.0/
+
+In short: you may use, study, share and adapt StudyPath for personal,
+educational and other non-commercial purposes, with credit. You may not
+sell it, charge for access to it, or use it in paid products or services.
+
+The courses are companions to published textbooks (서울대 한국어 / SNU
+Korean; Teach Yourself Dutch; Colloquial Dutch). All rights to those books
+belong to their authors and publishers; StudyPath is not affiliated with
+them, and this license covers only StudyPath's own material.

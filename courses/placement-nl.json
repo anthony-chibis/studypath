@@ -1,0 +1,178 @@
+{
+ "lang": "nl-NL",
+ "external": [
+  {
+   "name": {
+    "en": "EU Academy — Dutch placement test",
+    "ru": "EU Academy — тест уровня по нидерландскому"
+   },
+   "url": "https://academy.europa.eu/courses/dutch-placement-test"
+  },
+  {
+   "name": {
+    "en": "LingQ — free Dutch level test",
+    "ru": "LingQ — бесплатный тест по нидерландскому"
+   },
+   "url": "https://www.lingq.com/en/learn-dutch-online/Dutch-proficiency-test/"
+  }
+ ],
+ "levels": [
+  {
+   "name": "A1",
+   "books": [
+    "dutch-a1"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Ik ___ uit Rusland.",
+     "options": [
+      "kom",
+      "komt",
+      "komen",
+      "kwam"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Hoe ___ je? — Ik heet Anna.",
+     "options": [
+      "heet",
+      "heten",
+      "ben",
+      "heeft"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "___ huis is groot.",
+     "options": [
+      "Het",
+      "De",
+      "Een het",
+      "Den"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Ik heb twee ___.",
+     "options": [
+      "boeken",
+      "boek",
+      "boeks",
+      "boekes"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "What does it mean?",
+      "ru": "Что это значит?"
+     },
+     "text": "Dank je wel!",
+     "options": [
+      "Thank you!",
+      "Goodbye!",
+      "Sorry!",
+      "Good morning!"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "name": "A2",
+   "books": [
+    "dutch-a2",
+    "dutch-a1"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Gisteren ___ ik naar Amsterdam gegaan.",
+     "options": [
+      "ben",
+      "heb",
+      "was",
+      "word"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Ik kom morgen niet, ___ ik ben ziek.",
+     "options": [
+      "want",
+      "omdat",
+      "dus",
+      "maar dat"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Hoe laat sta je morgen ___?",
+     "options": [
+      "op",
+      "aan",
+      "uit",
+      "af"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Mijn broer is ___ dan ik.",
+     "options": [
+      "groter",
+      "grootst",
+      "groots",
+      "meer groot"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "Ik denk dat hij morgen ___.",
+     "options": [
+      "komt",
+      "kom",
+      "komen",
+      "gekomen"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,495 @@
+{
+ "lang": "ko-KR",
+ "external": [
+  {
+   "name": {
+    "en": "EF free Korean test (15 min)",
+    "ru": "Бесплатный тест EF по корейскому (15 мин)"
+   },
+   "url": "https://www.ef.com/test/korean"
+  },
+  {
+   "name": {
+    "en": "TOPIK — official past papers",
+    "ru": "TOPIK — официальные прошлые варианты"
+   },
+   "url": "https://www.topik.go.kr"
+  }
+ ],
+ "levels": [
+  {
+   "name": "SNU 1 · TOPIK 1 · A1",
+   "books": [
+    "snu-korean-1a",
+    "snu-korean-1b"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "저는 학생___.",
+     "options": [
+      "이에요",
+      "예요",
+      "을",
+      "에서"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "사과 두 ___ 주세요.",
+     "options": [
+      "개",
+      "명",
+      "살",
+      "번"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "어제 친구하고 영화를 ___.",
+     "options": [
+      "봤어요",
+      "봐요",
+      "볼 거예요",
+      "보세요"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "도서관___ 책을 읽어요.",
+     "options": [
+      "에서",
+      "에",
+      "를",
+      "가"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "What does it mean?",
+      "ru": "Что это значит?"
+     },
+     "text": "감사합니다",
+     "options": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "name": "SNU 2 · TOPIK 2 · A2",
+   "books": [
+    "snu-korean-2a",
+    "snu-korean-2b"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "한국에 가 본 ___이 있어요?",
+     "options": [
+      "적",
+      "때",
+      "수",
+      "것"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "수영을 ___ 수 있어요.",
+     "options": [
+      "할",
+      "하는",
+      "한",
+      "해서"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "머리가 아파___ 병원에 갔어요.",
+     "options": [
+      "서",
+      "러",
+      "면",
+      "지만"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "밥을 먹은 ___에 커피를 마셔요.",
+     "options": [
+      "후",
+      "전",
+      "동안",
+      "중"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "내일 비가 ___ 것 같아요.",
+     "options": [
+      "올",
+      "오는데",
+      "와서",
+      "오면"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "name": "SNU 3 · TOPIK 3 · B1",
+   "books": [
+    "snu-korean-3a",
+    "snu-korean-3b"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "학교에 가___가 지갑을 놓고 와서 다시 집에 갔어요.",
+     "options": [
+      "다",
+      "려",
+      "면",
+      "고"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "어젯밤에 숙제를 하___ 잠을 못 잤어요.",
+     "options": [
+      "느라고",
+      "더니",
+      "다가",
+      "려고"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "저는 매운 음식을 잘 먹는 ___이에요.",
+     "options": [
+      "편",
+      "척",
+      "줄",
+      "대로"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "한국에 살다 보니까 김치를 좋아하게 ___.",
+     "options": [
+      "됐어요",
+      "했어요",
+      "봤어요",
+      "있어요"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "어제 그 식당에 가 봤는데 정말 맛있___.",
+     "options": [
+      "더라고요",
+      "을까요",
+      "잖아요",
+      "겠어요"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "name": "SNU 4 · TOPIK 4 · B2",
+   "books": [
+    "snu-korean-4a",
+    "snu-korean-4b"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "갑자기 비가 오는 ___에 옷이 다 젖었어요.",
+     "options": [
+      "바람",
+      "김",
+      "덕분",
+      "대신"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "그 가수는 노래를 잘할 ___ 아니라 춤도 잘 춰요.",
+     "options": [
+      "뿐만",
+      "만큼",
+      "대로",
+      "정도"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "서울에 도착하는 ___ 연락할게요.",
+     "options": [
+      "대로",
+      "바람에",
+      "탓에",
+      "셈에"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "거의 다 끝났으니까 다 한 ___이에요.",
+     "options": [
+      "셈",
+      "탓",
+      "척",
+      "김"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "누구나 처음에는 실수하기 ___이에요.",
+     "options": [
+      "마련",
+      "나름",
+      "십상",
+      "때문"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "name": "SNU 5 · TOPIK 5 · C1",
+   "books": [
+    "snu-korean-5a",
+    "snu-korean-5b"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "밥은___ 물 한 잔도 못 마셨어요.",
+     "options": [
+      "커녕",
+      "마저",
+      "조차도",
+      "치고"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "부지런한 그의 성격으로 보아 늦을 ___가 없어요.",
+     "options": [
+      "리",
+      "줄",
+      "탓",
+      "법"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "특별한 일이 없는 ___ 매일 운동을 하려고 해요.",
+     "options": [
+      "한",
+      "채",
+      "통에",
+      "만큼"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "날씨가 추운 ___에 감기에 걸리는 사람이 많아요.",
+     "options": [
+      "탓",
+      "덕",
+      "김",
+      "법"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "그 정도면 화를 낼 ___도 하지요.",
+     "options": [
+      "만",
+      "법",
+      "수",
+      "줄"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "name": "SNU 6 · TOPIK 6 · C1+",
+   "books": [
+    "snu-korean-6a",
+    "snu-korean-6b"
+   ],
+   "q": [
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "미리 예약했___ 망정이지 하마터면 자리가 없을 뻔했어요.",
+     "options": [
+      "기에",
+      "더니",
+      "건만",
+      "느니"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "요즘 일이 많은 ___라 연락을 못 드렸습니다.",
+     "options": [
+      "터",
+      "탓",
+      "셈",
+      "편"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "살다 보___ 좋은 날도 오겠지요.",
+     "options": [
+      "면",
+      "니",
+      "다",
+      "되"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the meaning",
+      "ru": "Выберите значение"
+     },
+     "text": "‘우물 안 개구리’는 어떤 사람을 말해요?",
+     "options": [
+      "보고 들은 것이 적어 세상을 모르는 사람",
+      "물을 아주 좋아하는 사람",
+      "말이 많은 사람",
+      "노래를 잘하는 사람"
+     ],
+     "answer": 0
+    },
+    {
+     "q": {
+      "en": "Choose the word that fits the gap",
+      "ru": "Выберите вариант, который подходит в пропуск"
+     },
+     "text": "아이가 깰___ 조용히 문을 닫았다.",
+     "options": [
+      "세라",
+      "망정",
+      "지언정",
+      "거늘"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

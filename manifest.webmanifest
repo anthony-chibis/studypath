@@ -1,0 +1,9 @@
+{
+  "name": "StudyPath",
+  "short_name": "StudyPath",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5e60ce",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
